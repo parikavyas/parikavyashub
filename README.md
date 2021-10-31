@@ -1,2 +1,2 @@
-# parikavyas.guthub.io
+# parikavyas.github.io
 Website Portfolio
